@@ -1,0 +1,33 @@
+[2026-02-18 01:25:49] Script STARTED
+[2026-02-18 01:25:49] Current working directory: C:\Users\User\oci-arm-host-capacity\oci-arm-host-capacity
+[2026-02-18 01:25:49] __DIR__: C:\Users\User\oci-arm-host-capacity\oci-arm-host-capacity
+[2026-02-18 01:25:49] PHP SAPI: cli
+[2026-02-18 01:25:49] Script path: index.php
+
+[2026-02-18 01:25:49] ERROR in nuDb:US-CHICAGO-1-AD-1: {
+    "code": "InternalError",
+    "message": "Out of host capacity."
+} (code: 500)
+[2026-02-18 01:25:49] No capacity in any availability domain
+[2026-02-18 01:26:15] Script STARTED
+[2026-02-18 01:26:15] Current working directory: C:\Users\User\oci-arm-host-capacity\oci-arm-host-capacity
+[2026-02-18 01:26:15] __DIR__: C:\Users\User\oci-arm-host-capacity\oci-arm-host-capacity
+[2026-02-18 01:26:15] PHP SAPI: cli
+[2026-02-18 01:26:15] Script path: index.php
+
+[2026-02-18 01:26:15] ERROR in nuDb:US-CHICAGO-1-AD-1: {
+    "code": "InternalError",
+    "message": "Out of host capacity."
+} (code: 500)
+[2026-02-18 01:26:15] No capacity in any availability domain
+[2026-02-18 01:35:39] Script STARTED
+[2026-02-18 01:35:39] Current working directory: C:\Users\User\oci-arm-host-capacity\oci-arm-host-capacity
+[2026-02-18 01:35:39] __DIR__: C:\Users\User\oci-arm-host-capacity\oci-arm-host-capacity
+[2026-02-18 01:35:39] PHP SAPI: cli
+[2026-02-18 01:35:39] Script path: index.php
+
+[2026-02-18 01:35:39] ERROR in nuDb:US-CHICAGO-1-AD-1: {
+    "code": "InternalError",
+    "message": "Out of host capacity."
+} (code: 500)
+[2026-02-18 01:35:39] No capacity in any availability domain
